@@ -13,19 +13,21 @@ This program aims to solve the following tasks:
 
 #### Pathlib:
 
+```python
 ----Simulator\
-    |----Config.py
-    |----output\
-    |    |----20220222xxxxxxx\
-    |    |    |----seaport.log
-    |----\__init__.py
-    |----SeaportGenerator.py
-    |----logger.py
-    |----Procedure.py
-    |----Action.py
-    |----readme.md
-    |----utils.py
-    |----Components.py
+​    |----Config.py
+​    |----output\
+​    |    |----20220222xxxxxxx\
+​    |    |    |----seaport.log
+​    |----\__init__.py
+​    |----SeaportGenerator.py
+​    |----logger.py
+​    |----Procedure.py
+​    |----Action.py
+​    |----readme.md
+​    |----utils.py
+​    |----Components.py
+```
 
 
 
